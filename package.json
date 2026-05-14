@@ -1,0 +1,11 @@
+{
+    "name": "site-cloud-prova",
+    "version": "1.0.0",
+    "description": "Website simples para prova",
+    "main": "index.html",
+    "scripts": {
+        "build": "echo 'Nenhuma build necessaria'"
+    },
+    "author": "",
+    "license": "ISC"
+}
